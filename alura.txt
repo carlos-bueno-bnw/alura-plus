@@ -1,0 +1,8 @@
+live server
+localhost:5500
+Go Live
+
+https://www.figma.com/file/0BK14fEw2ra0p6RxOpsMhV/Alura-Plus---Layout-(Copy)?node-id=1%3A77&t=GqsFgEMTZV8rAiG3-0
+https://github.com/alura-cursos/aluraplus/tree/aula04/img
+https://fonts.google.com/
+
